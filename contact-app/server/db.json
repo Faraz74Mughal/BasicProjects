@@ -1,0 +1,14 @@
+{
+  "contacts": [
+    {
+      "id": "8be235e8-bced-4fcd-8d8b-90f0f9bd81fd",
+      "name": "Faraz",
+      "email": "faraz@demo.com"
+    },
+    {
+      "id": "81ca86e3-f1d6-466f-8142-6f0da39c38b9",
+      "name": "Zaeem",
+      "email": "zaeem@mail.com"
+    }
+  ]
+}
